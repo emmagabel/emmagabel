@@ -4,7 +4,6 @@ a,
 marquee,
 p {
   font-family: Courier New;
-  font-size: 2vw;
   line-height: 1.5;
   color: black;
 }
@@ -12,6 +11,7 @@ p {
 p {
   margin-right: 100px;
   margin-left: 100px;
+  font-size: 3em;
 }
 
 p.bio {
@@ -36,7 +36,12 @@ marquee {
   margin-bottom: 20px;
   margin-right: 50px;
   margin-left: 50px;
+  font-size: 2em;
   color: #3B62A5;
+}
+
+a {
+  Font-size: 3em;
 }
 
 a.title:link, a.title:visited {

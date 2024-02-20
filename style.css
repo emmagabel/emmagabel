@@ -12,7 +12,6 @@ p {
 p {
   margin-right: 100px;
   margin-left: 100px;
-  font-size: 25px;
 }
 
 p.bio {
@@ -37,12 +36,7 @@ marquee {
   margin-bottom: 20px;
   margin-right: 50px;
   margin-left: 50px;
-  font-size: 20px;
   color: #3B62A5;
-}
-
-a {
-  Font-size: 20px;
 }
 
 a.title:link, a.title:visited {
@@ -57,7 +51,7 @@ a.title:hover, a.title:active {
 }
 
 a.image:link, a.image:visited {
-  font-size: 15px;
+  font-size: 10px;
   color: #CEE3F8;
   text-decoration: none;
 }
@@ -77,7 +71,7 @@ a.home:link, a.home:visited, a.index:link, a.index:visited, a.latest:link, a.lat
   display: block;
   background-color: pink;
   color: black;
-  width: 3em;
+  width: 30px;
   padding: 5px 5px;
   margin: auto;
   text-decoration: none;

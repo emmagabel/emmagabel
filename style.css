@@ -71,7 +71,7 @@ a.home:link, a.home:visited, a.index:link, a.index:visited, a.latest:link, a.lat
   display: block;
   background-color: pink;
   color: black;
-  width: 150px;
+  width: 300px;
   padding: 5px 5px;
   margin: auto;
   text-decoration: none;

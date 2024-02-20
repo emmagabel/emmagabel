@@ -51,7 +51,7 @@ a.title:hover, a.title:active {
 }
 
 a.image:link, a.image:visited {
-  font-size: 10px;
+  font-size: 15px;
   color: #CEE3F8;
   text-decoration: none;
 }

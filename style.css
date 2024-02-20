@@ -4,7 +4,7 @@ a,
 marquee,
 p {
   font-family: Courier New;
-  font-size: 3ex;
+  font-size: 3em;
   line-height: 1.5;
   color: black;
 }
@@ -51,7 +51,7 @@ a.title:hover, a.title:active {
 }
 
 a.image:link, a.image:visited {
-  font-size: 10px;
+  font-size: 1em;
   color: #CEE3F8;
   text-decoration: none;
 }

@@ -1,0 +1,92 @@
+body {background-color: #FCF6F8;}
+
+a,
+marquee,
+p {
+  font-family: Courier New;
+  font-size: 25px
+  line-height: 1.5;
+  color: black;
+}
+
+p {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+p.bio {
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+p.info {
+  margin-top: 5px;
+}
+
+p.spacer1 {
+  margin-bottom: 50px;
+}
+
+p.spacer2 {
+  margin-bottom: 100px;
+}
+
+marquee {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #3B62A5;
+}
+
+a.title:link, a.title:visited {
+  color: pink;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-decoration: none;
+}
+
+a.title:hover, a.title:active {
+  color: #EA2553;
+}
+
+a.image:link, a.image:visited {
+  font-size: 10px;
+  color: #CEE3F8;
+  text-decoration: none;
+}
+
+a.image:link, a.image:visited {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+a.image:hover, a.image:active {
+  color: #EA2553;
+}
+
+a.home:link, a.home:visited, a.index:link, a.index:visited, a.latest:link, a.latest:visited {
+  display: block;
+  background-color: pink;
+  color: black;
+  width: 150px;
+  padding: 5px 5px;
+  margin: auto;
+  text-decoration: none;
+  text-align: center;
+}
+
+a.home:hover, a.home:active, a.index:hover, a.index:active, a.latest:hover, a.latest:active {
+  background-color: #EA2553
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+}

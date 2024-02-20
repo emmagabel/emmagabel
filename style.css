@@ -4,8 +4,8 @@ a,
 marquee,
 p {
   font-family: Courier New;
-  line-height: 1.5;
   font-size: 25px;
+  line-height: 1.5;
   color: black;
 }
 
@@ -71,7 +71,7 @@ a.home:link, a.home:visited, a.index:link, a.index:visited, a.latest:link, a.lat
   display: block;
   background-color: pink;
   color: black;
-  width: 30px;
+  width: 150px;
   padding: 5px 5px;
   margin: auto;
   text-decoration: none;

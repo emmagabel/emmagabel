@@ -5,6 +5,7 @@ marquee,
 p {
   font-family: Courier New;
   line-height: 1.5;
+  font-size: 25px;
   color: black;
 }
 
